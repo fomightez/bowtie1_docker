@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own image badge on microbadger.com")
 
 # bowtie1_docker
 Docker container for Bowtie1 for splicing-unaware aligning of reads and differential expression analysis for RNA-Seq
