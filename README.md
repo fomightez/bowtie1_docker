@@ -31,4 +31,4 @@ To pull and run first time.
 
 You may need to change first `/data` in that command to match path to your directory.
 
-It starts detached and so you need to attach it, alternative use `docker run -v /data:/data -it fomightez/bowtie1` to start and attach immediately.
+It starts detached and so you need to attach it; alternatively, use `docker run -v /data:/data -it fomightez/bowtie1` to start and attach immediately.
